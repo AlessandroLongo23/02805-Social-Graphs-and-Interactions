@@ -53,8 +53,6 @@ def getPerformerGraph():
             if '%26' in link:
                 continue
             link = link.replace('%25E2%2580%2593', '–')
-            if '%' in link:
-                print(link)
 
             for other in performers:
                 if link == other[0]:
@@ -67,7 +65,6 @@ def getPerformers():
     try:
         with open('../data/rock/performers_data.json', 'r', encoding='utf-8') as f:
             performers = json.load(f)
-        print("JSON loaded successfully!")
     except:
         with open('../data/rock/performers.txt', 'r', encoding='utf-8') as f:
             text = f.read()
@@ -120,3 +117,11 @@ def calculateLinks(performers):
 
     with open('../data/rock/performers_data.json', 'w', encoding='utf-8') as f:
         json.dump(performers, f, ensure_ascii=False, indent=4)
+
+
+def extract_distribution(data):
+    a, b = min(data), max(data)
+    bins = [i for i in range(a, b + 1)]
+    data = [d for d in data if d != 0]
+    heights = [sum([1 if i == bin_ else 0 for i in data]) for bin_ in bins]
+    return bins, heights
