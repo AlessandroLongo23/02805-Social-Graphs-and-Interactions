@@ -1,0 +1,13 @@
+{
+  "network_stats": {
+    "total_nodes": 488,
+    "total_edges": 9241
+  },
+  "modularity_scores": {
+    "first_genre": 0.07133789312884276,
+    "first_non_rock_genre": 0.061082492766851966,
+    "random_genre": 0.028530770633373344
+  },
+  "best_strategy": "First Genre",
+  "best_modularity": 0.07133789312884276
+}

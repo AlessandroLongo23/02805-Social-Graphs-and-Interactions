@@ -1,0 +1,412 @@
+{
+  "Community_1": [
+    {
+      "word": "byrds",
+      "score": 11.549112839103202
+    },
+    {
+      "word": "joplin",
+      "score": 11.004902616673837
+    },
+    {
+      "word": "everly",
+      "score": 10.527757544801059
+    },
+    {
+      "word": "janis",
+      "score": 10.340558143628705
+    },
+    {
+      "word": "diddley",
+      "score": 10.238104783562774
+    },
+    {
+      "word": "nilsson",
+      "score": 10.21527549423268
+    },
+    {
+      "word": "mccartneys",
+      "score": 10.104235751173887
+    },
+    {
+      "word": "lewisohn",
+      "score": 9.912617103334014
+    },
+    {
+      "word": "glitter",
+      "score": 9.912617103334014
+    },
+    {
+      "word": "cochran",
+      "score": 9.884626173250233
+    },
+    {
+      "word": "etheridge",
+      "score": 9.87518662764259
+    },
+    {
+      "word": "rodriguez",
+      "score": 9.865691391178265
+    },
+    {
+      "word": "fats",
+      "score": 9.827140136950993
+    },
+    {
+      "word": "loggins",
+      "score": 9.747151606147558
+    },
+    {
+      "word": "presleys",
+      "score": 9.716100393892201
+    },
+    {
+      "word": "buckingham",
+      "score": 9.716100393892201
+    },
+    {
+      "word": "rea",
+      "score": 9.705615419269275
+    },
+    {
+      "word": "chapin",
+      "score": 9.684438299095214
+    },
+    {
+      "word": "mayall",
+      "score": 9.662978809007289
+    },
+    {
+      "word": "duane",
+      "score": 9.641229317042376
+    }
+  ],
+  "Community_0": [
+    {
+      "word": "megadeth",
+      "score": 11.364976482342842
+    },
+    {
+      "word": "whitesnake",
+      "score": 11.292069332414485
+    },
+    {
+      "word": "nugent",
+      "score": 11.000203524540213
+    },
+    {
+      "word": "mustaine",
+      "score": 10.552807667811031
+    },
+    {
+      "word": "coverdale",
+      "score": 10.482959164016028
+    },
+    {
+      "word": "sepultura",
+      "score": 10.297445621744455
+    },
+    {
+      "word": "audioslave",
+      "score": 9.884626173250233
+    },
+    {
+      "word": "iommi",
+      "score": 9.78764274584822
+    },
+    {
+      "word": "ratt",
+      "score": 9.673744320133002
+    },
+    {
+      "word": "coheed",
+      "score": 9.301140450452285
+    },
+    {
+      "word": "halford",
+      "score": 9.260046186175543
+    },
+    {
+      "word": "mudvayne",
+      "score": 9.203568885673935
+    },
+    {
+      "word": "volbeat",
+      "score": 9.021173402974533
+    },
+    {
+      "word": "cambria",
+      "score": 8.988658399883906
+    },
+    {
+      "word": "keenan",
+      "score": 8.988658399883906
+    },
+    {
+      "word": "anselmo",
+      "score": 8.972151199665944
+    },
+    {
+      "word": "ellefson",
+      "score": 8.869386219886096
+    },
+    {
+      "word": "popoff",
+      "score": 8.851602194601218
+    },
+    {
+      "word": "megadeths",
+      "score": 8.759609276352608
+    },
+    {
+      "word": "vaicom",
+      "score": 8.740562451542425
+    }
+  ],
+  "Community_3": [
+    {
+      "word": "cranberries",
+      "score": 9.81735628972423
+    },
+    {
+      "word": "radioheads",
+      "score": 9.551167338332444
+    },
+    {
+      "word": "barenaked",
+      "score": 9.504173111759691
+    },
+    {
+      "word": "patrol",
+      "score": 9.35434985559272
+    },
+    {
+      "word": "hives",
+      "score": 9.246111571748543
+    },
+    {
+      "word": "morrisseys",
+      "score": 9.084296705676126
+    },
+    {
+      "word": "bottlemen",
+      "score": 8.955472937332456
+    },
+    {
+      "word": "coldplays",
+      "score": 8.759609276352608
+    },
+    {
+      "word": "traveler",
+      "score": 8.514665998779144
+    },
+    {
+      "word": "everlast",
+      "score": 8.469956515114323
+    },
+    {
+      "word": "stipe",
+      "score": 8.376629624213765
+    },
+    {
+      "word": "oriordan",
+      "score": 8.277556017410916
+    },
+    {
+      "word": "folds",
+      "score": 8.251804461436066
+    },
+    {
+      "word": "blossoms",
+      "score": 8.199031277442748
+    },
+    {
+      "word": "buckleys",
+      "score": 7.999376241535417
+    },
+    {
+      "word": "ashcroft",
+      "score": 7.968719354386144
+    },
+    {
+      "word": "gin",
+      "score": 7.937467150820825
+    },
+    {
+      "word": "parachutes",
+      "score": 7.839895586042474
+    },
+    {
+      "word": "rourke",
+      "score": 7.806011431093495
+    },
+    {
+      "word": "ziggy",
+      "score": 7.736024843311238
+    }
+  ],
+  "Community_2": [
+    {
+      "word": "poppunk",
+      "score": 9.695061690223271
+    },
+    {
+      "word": "sublime",
+      "score": 9.327965036610514
+    },
+    {
+      "word": "awolnation",
+      "score": 9.037187842690884
+    },
+    {
+      "word": "bennington",
+      "score": 8.904375378594539
+    },
+    {
+      "word": "hoppus",
+      "score": 8.886975880348269
+    },
+    {
+      "word": "allamerican",
+      "score": 8.797039752044034
+    },
+    {
+      "word": "wentz",
+      "score": 8.778433326172824
+    },
+    {
+      "word": "cutie",
+      "score": 8.759609276352608
+    },
+    {
+      "word": "shinoda",
+      "score": 8.682030986227907
+    },
+    {
+      "word": "lavignes",
+      "score": 8.579484338933291
+    },
+    {
+      "word": "ness",
+      "score": 8.42396944621676
+    },
+    {
+      "word": "hoobastank",
+      "score": 8.400473584952335
+    },
+    {
+      "word": "stump",
+      "score": 8.400473584952335
+    },
+    {
+      "word": "whibley",
+      "score": 8.302902020173985
+    },
+    {
+      "word": "delonge",
+      "score": 8.251804461436066
+    },
+    {
+      "word": "reddick",
+      "score": 8.199031277442748
+    },
+    {
+      "word": "dummies",
+      "score": 8.171981264025598
+    },
+    {
+      "word": "weiland",
+      "score": 8.116477904801782
+    },
+    {
+      "word": "borland",
+      "score": 8.087991534383956
+    },
+    {
+      "word": "mcilrath",
+      "score": 8.058991868502542
+    }
+  ],
+  "Community_4": [
+    {
+      "word": "shinedown",
+      "score": 10.002553231638249
+    },
+    {
+      "word": "supertramp",
+      "score": 9.099698142942698
+    },
+    {
+      "word": "hinder",
+      "score": 8.955472937332456
+    },
+    {
+      "word": "starset",
+      "score": 8.921588782383475
+    },
+    {
+      "word": "pod",
+      "score": 8.833619461011573
+    },
+    {
+      "word": "burnley",
+      "score": 8.621290271544614
+    },
+    {
+      "word": "povey",
+      "score": 8.400473584952335
+    },
+    {
+      "word": "evanescences",
+      "score": 8.251804461436066
+    },
+    {
+      "word": "deadman",
+      "score": 8.087991534383956
+    },
+    {
+      "word": "erna",
+      "score": 7.999376241535417
+    },
+    {
+      "word": "scantlin",
+      "score": 7.839895586042474
+    },
+    {
+      "word": "krutch",
+      "score": 7.806011431093495
+    },
+    {
+      "word": "downie",
+      "score": 7.699856177102269
+    },
+    {
+      "word": "abel",
+      "score": 7.546460360284277
+    },
+    {
+      "word": "gord",
+      "score": 7.546460360284277
+    },
+    {
+      "word": "sully",
+      "score": 7.505712920254634
+    },
+    {
+      "word": "shaddix",
+      "score": 7.331549874494247
+    },
+    {
+      "word": "winkler",
+      "score": 7.136227110146086
+    },
+    {
+      "word": "socan",
+      "score": 7.083453926152768
+    },
+    {
+      "word": "mcnevan",
+      "score": 7.028891483595583
+    }
+  ]
+}
