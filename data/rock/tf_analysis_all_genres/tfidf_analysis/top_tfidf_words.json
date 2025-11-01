@@ -1,0 +1,1232 @@
+{
+  "hard rock": [
+    {
+      "word": "chisel",
+      "score": 15.068534238907192
+    },
+    {
+      "word": "holder",
+      "score": 14.174223172364995
+    },
+    {
+      "word": "lea",
+      "score": 13.408216547810488
+    },
+    {
+      "word": "sylvain",
+      "score": 13.07620330481275
+    },
+    {
+      "word": "glitter",
+      "score": 12.629126337027179
+    },
+    {
+      "word": "firehouse",
+      "score": 12.412399383041857
+    },
+    {
+      "word": "ratt",
+      "score": 12.351151436316647
+    },
+    {
+      "word": "noddy",
+      "score": 12.093437009646161
+    },
+    {
+      "word": "farner",
+      "score": 12.093437009646161
+    },
+    {
+      "word": "mudvayne",
+      "score": 11.72730290694405
+    },
+    {
+      "word": "brewer",
+      "score": 11.633341888885312
+    },
+    {
+      "word": "leverty",
+      "score": 11.314379515489613
+    },
+    {
+      "word": "thorogood",
+      "score": 11.313923290092296
+    },
+    {
+      "word": "squier",
+      "score": 11.081583117156008
+    },
+    {
+      "word": "thunders",
+      "score": 11.078748338534666
+    },
+    {
+      "word": "gass",
+      "score": 11.013274778283607
+    },
+    {
+      "word": "amboy",
+      "score": 10.952769800839315
+    },
+    {
+      "word": "schacher",
+      "score": 10.820643586948476
+    },
+    {
+      "word": "hetfield",
+      "score": 10.767249685683119
+    },
+    {
+      "word": "crazee",
+      "score": 10.681738770767074
+    }
+  ],
+  "alternative rock": [
+    {
+      "word": "sublime",
+      "score": 15.695291752549544
+    },
+    {
+      "word": "hoppus",
+      "score": 15.011520549895115
+    },
+    {
+      "word": "delonge",
+      "score": 14.608439118146347
+    },
+    {
+      "word": "folds",
+      "score": 13.970514371354948
+    },
+    {
+      "word": "ashcroft",
+      "score": 13.408216547810488
+    },
+    {
+      "word": "sloman",
+      "score": 13.408216547810488
+    },
+    {
+      "word": "chamberlin",
+      "score": 13.302004887668375
+    },
+    {
+      "word": "leto",
+      "score": 13.07620330481275
+    },
+    {
+      "word": "spiral",
+      "score": 12.629159053653943
+    },
+    {
+      "word": "nin",
+      "score": 12.558816132475865
+    },
+    {
+      "word": "blink",
+      "score": 12.176768206086908
+    },
+    {
+      "word": "slovak",
+      "score": 12.093437009646161
+    },
+    {
+      "word": "dirnt",
+      "score": 12.007459940790627
+    },
+    {
+      "word": "downward",
+      "score": 11.918663454500722
+    },
+    {
+      "word": "gaugh",
+      "score": 11.826856350667716
+    },
+    {
+      "word": "californication",
+      "score": 11.633341888885312
+    },
+    {
+      "word": "coheed",
+      "score": 11.610221666113906
+    },
+    {
+      "word": "catfish",
+      "score": 11.55788358009992
+    },
+    {
+      "word": "skiba",
+      "score": 11.531139186101697
+    },
+    {
+      "word": "cambria",
+      "score": 11.467514038860323
+    }
+  ],
+  "pop rock": [
+    {
+      "word": "glitter",
+      "score": 12.60824632612802
+    },
+    {
+      "word": "nesmith",
+      "score": 11.147651430205098
+    },
+    {
+      "word": "wentz",
+      "score": 11.103847465464854
+    },
+    {
+      "word": "squier",
+      "score": 11.036302492019486
+    },
+    {
+      "word": "ulvaeus",
+      "score": 10.793248795062269
+    },
+    {
+      "word": "andersson",
+      "score": 10.7142228616619
+    },
+    {
+      "word": "stump",
+      "score": 10.63197050159848
+    },
+    {
+      "word": "outfield",
+      "score": 10.57520891650696
+    },
+    {
+      "word": "reddick",
+      "score": 10.330678559153462
+    },
+    {
+      "word": "tork",
+      "score": 10.161259232309332
+    },
+    {
+      "word": "copeland",
+      "score": 10.12559630094943
+    },
+    {
+      "word": "fältskog",
+      "score": 10.052319024859527
+    },
+    {
+      "word": "duritz",
+      "score": 10.052319024859527
+    },
+    {
+      "word": "rea",
+      "score": 9.93101087968223
+    },
+    {
+      "word": "cranberries",
+      "score": 9.81735628972423
+    },
+    {
+      "word": "lyngstad",
+      "score": 9.68495876936542
+    },
+    {
+      "word": "manzanera",
+      "score": 9.639678144228897
+    },
+    {
+      "word": "hutton",
+      "score": 9.593356494517138
+    },
+    {
+      "word": "bowling",
+      "score": 9.574159699541946
+    },
+    {
+      "word": "trohman",
+      "score": 9.545944824210476
+    }
+  ],
+  "rock": [
+    {
+      "word": "zombies",
+      "score": 15.739687012409393
+    },
+    {
+      "word": "heylin",
+      "score": 15.387496612302892
+    },
+    {
+      "word": "molland",
+      "score": 14.400024755220617
+    },
+    {
+      "word": "matovina",
+      "score": 14.400024755220617
+    },
+    {
+      "word": "mcdermott",
+      "score": 14.251601299358288
+    },
+    {
+      "word": "astral",
+      "score": 13.459800016031513
+    },
+    {
+      "word": "heatley",
+      "score": 13.247294942054356
+    },
+    {
+      "word": "roby",
+      "score": 13.247294942054356
+    },
+    {
+      "word": "glebbeek",
+      "score": 13.247294942054356
+    },
+    {
+      "word": "gibbins",
+      "score": 13.07620330481275
+    },
+    {
+      "word": "polley",
+      "score": 12.629159053653943
+    },
+    {
+      "word": "kreutzmann",
+      "score": 12.486597180601974
+    },
+    {
+      "word": "selvin",
+      "score": 12.412399383041857
+    },
+    {
+      "word": "shondells",
+      "score": 12.412399383041857
+    },
+    {
+      "word": "lewisohn",
+      "score": 12.386605190098315
+    },
+    {
+      "word": "iveys",
+      "score": 12.257611528947901
+    },
+    {
+      "word": "badfinger",
+      "score": 12.137535056838873
+    },
+    {
+      "word": "schreiber",
+      "score": 12.093437009646161
+    },
+    {
+      "word": "clayson",
+      "score": 11.986174271603643
+    },
+    {
+      "word": "dubai",
+      "score": 11.826856350667716
+    }
+  ],
+  "alternative metal": [
+    {
+      "word": "cavalera",
+      "score": 13.750226296072887
+    },
+    {
+      "word": "kisser",
+      "score": 13.355631396500145
+    },
+    {
+      "word": "arvizu",
+      "score": 13.016683322052964
+    },
+    {
+      "word": "andreas",
+      "score": 12.412399383041857
+    },
+    {
+      "word": "mudvayne",
+      "score": 11.791273455076382
+    },
+    {
+      "word": "columbine",
+      "score": 11.731827294995863
+    },
+    {
+      "word": "fieldy",
+      "score": 11.19912594310396
+    },
+    {
+      "word": "munky",
+      "score": 11.078748338534666
+    },
+    {
+      "word": "bernardo",
+      "score": 10.952769800839315
+    },
+    {
+      "word": "luzier",
+      "score": 10.820643586948476
+    },
+    {
+      "word": "silveria",
+      "score": 10.681738770767074
+    },
+    {
+      "word": "payable",
+      "score": 10.681738770767074
+    },
+    {
+      "word": "sepultura",
+      "score": 10.469927206882701
+    },
+    {
+      "word": "reginald",
+      "score": 10.38053416723911
+    },
+    {
+      "word": "karmacode",
+      "score": 10.38053416723911
+    },
+    {
+      "word": "comalies",
+      "score": 10.216359647937368
+    },
+    {
+      "word": "brides",
+      "score": 10.136750754264511
+    },
+    {
+      "word": "scabbia",
+      "score": 10.041586092791931
+    },
+    {
+      "word": "malakian",
+      "score": 9.976275924010633
+    },
+    {
+      "word": "jodi",
+      "score": 9.854749933287072
+    }
+  ],
+  "blues rock": [
+    {
+      "word": "ccr",
+      "score": 14.540734336681147
+    },
+    {
+      "word": "patoski",
+      "score": 14.21318859571576
+    },
+    {
+      "word": "caserta",
+      "score": 13.355631396500145
+    },
+    {
+      "word": "hite",
+      "score": 12.955825700243457
+    },
+    {
+      "word": "illsley",
+      "score": 12.412399383041857
+    },
+    {
+      "word": "densmore",
+      "score": 12.257611528947901
+    },
+    {
+      "word": "relf",
+      "score": 11.918663454500722
+    },
+    {
+      "word": "vestine",
+      "score": 11.633341888885312
+    },
+    {
+      "word": "macon",
+      "score": 11.531139186101697
+    },
+    {
+      "word": "dickey",
+      "score": 11.424927525959584
+    },
+    {
+      "word": "jaimoe",
+      "score": 11.424927525959584
+    },
+    {
+      "word": "oakley",
+      "score": 11.424927525959584
+    },
+    {
+      "word": "caldwell",
+      "score": 11.424927525959584
+    },
+    {
+      "word": "thorogood",
+      "score": 11.313923290092296
+    },
+    {
+      "word": "kozmic",
+      "score": 11.19912594310396
+    },
+    {
+      "word": "fortunate",
+      "score": 10.952769800839315
+    },
+    {
+      "word": "manzarek",
+      "score": 10.546217005952933
+    },
+    {
+      "word": "clifford",
+      "score": 10.264610246104372
+    },
+    {
+      "word": "betts",
+      "score": 10.230745532642084
+    },
+    {
+      "word": "cosmo",
+      "score": 10.216359647937368
+    }
+  ],
+  "heavy metal": [
+    {
+      "word": "ellefson",
+      "score": 15.151865435347943
+    },
+    {
+      "word": "mustaine",
+      "score": 13.382798619394231
+    },
+    {
+      "word": "ratt",
+      "score": 12.278315686035578
+    },
+    {
+      "word": "downing",
+      "score": 12.093437009646161
+    },
+    {
+      "word": "menza",
+      "score": 11.19912594310396
+    },
+    {
+      "word": "gass",
+      "score": 11.013274778283607
+    },
+    {
+      "word": "hetfield",
+      "score": 10.844261722843322
+    },
+    {
+      "word": "gigantour",
+      "score": 10.820643586948476
+    },
+    {
+      "word": "drover",
+      "score": 10.681738770767074
+    },
+    {
+      "word": "dubrow",
+      "score": 10.546217005952933
+    },
+    {
+      "word": "firepower",
+      "score": 10.38053416723911
+    },
+    {
+      "word": "newsted",
+      "score": 10.264610246104372
+    },
+    {
+      "word": "rhoads",
+      "score": 10.230745532642084
+    },
+    {
+      "word": "mcbrain",
+      "score": 10.216359647937368
+    },
+    {
+      "word": "gers",
+      "score": 10.216359647937368
+    },
+    {
+      "word": "sneap",
+      "score": 10.216359647937368
+    },
+    {
+      "word": "lomenzo",
+      "score": 10.216359647937368
+    },
+    {
+      "word": "nicko",
+      "score": 10.041586092791931
+    },
+    {
+      "word": "janick",
+      "score": 10.041586092791931
+    },
+    {
+      "word": "binks",
+      "score": 10.041586092791931
+    }
+  ],
+  "pop": [
+    {
+      "word": "guralnick",
+      "score": 15.826352014763128
+    },
+    {
+      "word": "jorgensen",
+      "score": 13.302004887668375
+    },
+    {
+      "word": "lewisohn",
+      "score": 12.36303880425108
+    },
+    {
+      "word": "clayson",
+      "score": 11.806953713359363
+    },
+    {
+      "word": "byrds",
+      "score": 11.494665772574772
+    },
+    {
+      "word": "jardine",
+      "score": 11.190523324605813
+    },
+    {
+      "word": "becker",
+      "score": 11.059070000031419
+    },
+    {
+      "word": "fagen",
+      "score": 10.966414456460491
+    },
+    {
+      "word": "ulvaeus",
+      "score": 10.844261722843322
+    },
+    {
+      "word": "andersson",
+      "score": 10.767249685683119
+    },
+    {
+      "word": "badman",
+      "score": 10.740910709048284
+    },
+    {
+      "word": "wyman",
+      "score": 10.68717677744987
+    },
+    {
+      "word": "pegg",
+      "score": 10.63197050159848
+    },
+    {
+      "word": "priscilla",
+      "score": 10.535322021333068
+    },
+    {
+      "word": "hinman",
+      "score": 10.486950879804889
+    },
+    {
+      "word": "surfin",
+      "score": 10.362917695262112
+    },
+    {
+      "word": "leng",
+      "score": 10.297915186533322
+    },
+    {
+      "word": "beatle",
+      "score": 10.264610246104372
+    },
+    {
+      "word": "fältskog",
+      "score": 10.089290759786426
+    },
+    {
+      "word": "payton",
+      "score": 10.041586092791931
+    }
+  ],
+  "post-grunge": [
+    {
+      "word": "gin",
+      "score": 9.93715036416401
+    },
+    {
+      "word": "winkler",
+      "score": 8.867985898313785
+    },
+    {
+      "word": "hoobastank",
+      "score": 8.492466503200946
+    },
+    {
+      "word": "matchbox",
+      "score": 8.42396944621676
+    },
+    {
+      "word": "raine",
+      "score": 8.418373282756253
+    },
+    {
+      "word": "erna",
+      "score": 8.029460069069437
+    },
+    {
+      "word": "blossoms",
+      "score": 7.968719354386144
+    },
+    {
+      "word": "olp",
+      "score": 7.947662013467108
+    },
+    {
+      "word": "scantlin",
+      "score": 7.905596051684551
+    },
+    {
+      "word": "clumsy",
+      "score": 7.723553145321785
+    },
+    {
+      "word": "staind",
+      "score": 7.649651009871621
+    },
+    {
+      "word": "naveed",
+      "score": 7.601400411704618
+    },
+    {
+      "word": "sully",
+      "score": 7.546460360284277
+    },
+    {
+      "word": "hinder",
+      "score": 7.408666427424544
+    },
+    {
+      "word": "cadogan",
+      "score": 7.376889151910965
+    },
+    {
+      "word": "meeks",
+      "score": 7.331549874494247
+    },
+    {
+      "word": "puddle",
+      "score": 7.254637175232813
+    },
+    {
+      "word": "burnley",
+      "score": 7.209315392114847
+    },
+    {
+      "word": "rzeznik",
+      "score": 7.1873246688840045
+    },
+    {
+      "word": "dutton",
+      "score": 7.183027228429456
+    }
+  ],
+  "soft rock": [
+    {
+      "word": "croce",
+      "score": 15.510053734254303
+    },
+    {
+      "word": "becker",
+      "score": 11.036302492019486
+    },
+    {
+      "word": "fagen",
+      "score": 10.966414456460491
+    },
+    {
+      "word": "ingrid",
+      "score": 10.952769800839315
+    },
+    {
+      "word": "juber",
+      "score": 10.681738770767074
+    },
+    {
+      "word": "rea",
+      "score": 9.921840268474483
+    },
+    {
+      "word": "hutton",
+      "score": 9.545944824210476
+    },
+    {
+      "word": "muehleisen",
+      "score": 9.437302153780823
+    },
+    {
+      "word": "negron",
+      "score": 9.344286361257696
+    },
+    {
+      "word": "villanova",
+      "score": 9.201670976825877
+    },
+    {
+      "word": "kortchmar",
+      "score": 8.943566225239687
+    },
+    {
+      "word": "mcgear",
+      "score": 8.943566225239687
+    },
+    {
+      "word": "ondrasik",
+      "score": 8.886975880348269
+    },
+    {
+      "word": "maury",
+      "score": 8.658244659624279
+    },
+    {
+      "word": "hourglass",
+      "score": 8.658244659624279
+    },
+    {
+      "word": "greenspoon",
+      "score": 8.655694677068938
+    },
+    {
+      "word": "shorrock",
+      "score": 8.621290271544614
+    },
+    {
+      "word": "burgh",
+      "score": 8.60052304260222
+    },
+    {
+      "word": "gouldman",
+      "score": 8.5365634510211
+    },
+    {
+      "word": "locorriere",
+      "score": 8.243053796438309
+    }
+  ],
+  "indie rock": [
+    {
+      "word": "koenig",
+      "score": 12.893568930791817
+    },
+    {
+      "word": "catfish",
+      "score": 11.540131015740467
+    },
+    {
+      "word": "bottlemen",
+      "score": 11.372900271801221
+    },
+    {
+      "word": "cutie",
+      "score": 11.169201400552007
+    },
+    {
+      "word": "batmanglij",
+      "score": 10.681738770767074
+    },
+    {
+      "word": "morrissey",
+      "score": 10.012400730621525
+    },
+    {
+      "word": "contra",
+      "score": 9.854749933287072
+    },
+    {
+      "word": "cranberries",
+      "score": 9.777615062864239
+    },
+    {
+      "word": "rourke",
+      "score": 9.772577052761418
+    },
+    {
+      "word": "coyne",
+      "score": 9.497390594746156
+    },
+    {
+      "word": "shultz",
+      "score": 9.39662444727168
+    },
+    {
+      "word": "patrol",
+      "score": 9.393133368700896
+    },
+    {
+      "word": "carrabba",
+      "score": 9.344286361257696
+    },
+    {
+      "word": "gibbard",
+      "score": 9.344286361257696
+    },
+    {
+      "word": "lightbody",
+      "score": 9.178584568716369
+    },
+    {
+      "word": "squire",
+      "score": 9.178584568716369
+    },
+    {
+      "word": "awolnation",
+      "score": 9.13006579693234
+    },
+    {
+      "word": "splendour",
+      "score": 8.943566225239687
+    },
+    {
+      "word": "rostam",
+      "score": 8.943566225239687
+    },
+    {
+      "word": "suck",
+      "score": 8.934054211362874
+    }
+  ],
+  "progressive rock": [
+    {
+      "word": "elo",
+      "score": 12.000413928188129
+    },
+    {
+      "word": "coheed",
+      "score": 11.610221666113906
+    },
+    {
+      "word": "cambria",
+      "score": 11.467514038860323
+    },
+    {
+      "word": "povey",
+      "score": 10.516801840902962
+    },
+    {
+      "word": "tandy",
+      "score": 8.72897195315884
+    },
+    {
+      "word": "hayward",
+      "score": 8.42396944621676
+    },
+    {
+      "word": "slaven",
+      "score": 8.33928228622858
+    },
+    {
+      "word": "pinder",
+      "score": 8.199031277442748
+    },
+    {
+      "word": "tripp",
+      "score": 7.9776725715782835
+    },
+    {
+      "word": "kaylan",
+      "score": 7.9776725715782835
+    },
+    {
+      "word": "ponty",
+      "score": 7.9776725715782835
+    },
+    {
+      "word": "muffin",
+      "score": 7.9776725715782835
+    },
+    {
+      "word": "amory",
+      "score": 7.838721806017302
+    },
+    {
+      "word": "meddle",
+      "score": 7.838721806017302
+    },
+    {
+      "word": "vaxis",
+      "score": 7.723553145321785
+    },
+    {
+      "word": "momentary",
+      "score": 7.723553145321785
+    },
+    {
+      "word": "lapse",
+      "score": 7.723553145321785
+    },
+    {
+      "word": "saucerful",
+      "score": 7.601400411704618
+    },
+    {
+      "word": "supertramp",
+      "score": 7.5702082972266345
+    },
+    {
+      "word": "pons",
+      "score": 7.560224792072034
+    }
+  ],
+  "new wave": [
+    {
+      "word": "dury",
+      "score": 15.971646256325684
+    },
+    {
+      "word": "foxton",
+      "score": 12.697720948657265
+    },
+    {
+      "word": "simonon",
+      "score": 12.176768206086908
+    },
+    {
+      "word": "blockheads",
+      "score": 12.093437009646161
+    },
+    {
+      "word": "headon",
+      "score": 12.007459940790627
+    },
+    {
+      "word": "frantz",
+      "score": 11.918663454500722
+    },
+    {
+      "word": "weymouth",
+      "score": 11.731827294995863
+    },
+    {
+      "word": "buckler",
+      "score": 11.19912594310396
+    },
+    {
+      "word": "pierson",
+      "score": 10.952769800839315
+    },
+    {
+      "word": "pleasures",
+      "score": 10.681738770767074
+    },
+    {
+      "word": "strickland",
+      "score": 10.681738770767074
+    },
+    {
+      "word": "outfield",
+      "score": 10.546217005952933
+    },
+    {
+      "word": "ant",
+      "score": 10.207593198441536
+    },
+    {
+      "word": "copeland",
+      "score": 10.161259232309332
+    },
+    {
+      "word": "topper",
+      "score": 9.854749933287072
+    },
+    {
+      "word": "hannett",
+      "score": 9.854749933287072
+    },
+    {
+      "word": "hutchence",
+      "score": 9.772577052761418
+    },
+    {
+      "word": "warsaw",
+      "score": 9.65406182439291
+    },
+    {
+      "word": "jankel",
+      "score": 9.65406182439291
+    },
+    {
+      "word": "levene",
+      "score": 9.65406182439291
+    }
+  ],
+  "folk rock": [
+    {
+      "word": "lumineers",
+      "score": 15.557564605532647
+    },
+    {
+      "word": "sixto",
+      "score": 12.558816132475865
+    },
+    {
+      "word": "schultz",
+      "score": 11.731827294995863
+    },
+    {
+      "word": "byrds",
+      "score": 11.491200888755506
+    },
+    {
+      "word": "cougar",
+      "score": 11.424927525959584
+    },
+    {
+      "word": "fraites",
+      "score": 11.314379515489613
+    },
+    {
+      "word": "dryden",
+      "score": 10.820643586948476
+    },
+    {
+      "word": "downie",
+      "score": 10.516801840902962
+    },
+    {
+      "word": "stipe",
+      "score": 10.516801840902962
+    },
+    {
+      "word": "dummies",
+      "score": 10.196301907231971
+    },
+    {
+      "word": "etheridge",
+      "score": 9.99378243111755
+    },
+    {
+      "word": "gord",
+      "score": 9.545944824210476
+    },
+    {
+      "word": "mcguinn",
+      "score": 9.53954679750674
+    },
+    {
+      "word": "orpheus",
+      "score": 9.437302153780823
+    },
+    {
+      "word": "bloomington",
+      "score": 9.437302153780823
+    },
+    {
+      "word": "mmm",
+      "score": 9.344286361257696
+    },
+    {
+      "word": "creeggan",
+      "score": 9.29055242965928
+    },
+    {
+      "word": "danko",
+      "score": 9.23534615380789
+    },
+    {
+      "word": "pillow",
+      "score": 8.943566225239687
+    },
+    {
+      "word": "coka",
+      "score": 8.943566225239687
+    }
+  ],
+  "art rock": [
+    {
+      "word": "burchill",
+      "score": 12.629159053653943
+    },
+    {
+      "word": "giver",
+      "score": 12.257611528947901
+    },
+    {
+      "word": "elo",
+      "score": 12.01455365653491
+    },
+    {
+      "word": "cale",
+      "score": 11.41128053738355
+    },
+    {
+      "word": "sesnick",
+      "score": 11.078748338534666
+    },
+    {
+      "word": "maclise",
+      "score": 10.820643586948476
+    },
+    {
+      "word": "yule",
+      "score": 10.7142228616619
+    },
+    {
+      "word": "pegg",
+      "score": 10.60378958039754
+    },
+    {
+      "word": "povey",
+      "score": 10.516801840902962
+    },
+    {
+      "word": "macneil",
+      "score": 10.216359647937368
+    },
+    {
+      "word": "cacophony",
+      "score": 10.041586092791931
+    },
+    {
+      "word": "manzanera",
+      "score": 9.729244134901297
+    },
+    {
+      "word": "giblin",
+      "score": 9.65406182439291
+    },
+    {
+      "word": "ziggy",
+      "score": 9.593356494517138
+    },
+    {
+      "word": "redux",
+      "score": 9.39662444727168
+    },
+    {
+      "word": "inevitable",
+      "score": 9.201670976825877
+    },
+    {
+      "word": "selway",
+      "score": 9.178584568716369
+    },
+    {
+      "word": "cheng",
+      "score": 9.120177493112374
+    },
+    {
+      "word": "ferry",
+      "score": 8.99073968690568
+    },
+    {
+      "word": "proms",
+      "score": 8.943566225239687
+    }
+  ]
+}

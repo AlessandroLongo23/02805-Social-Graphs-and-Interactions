@@ -1,0 +1,145 @@
+{
+  "network_stats": {
+    "nodes": 488,
+    "edges": 9241
+  },
+  "community_stats": {
+    "num_communities": 5,
+    "modularity": 0.28269318354316514,
+    "largest_community_size": 158,
+    "smallest_community_size": 44,
+    "average_community_size": 97.6
+  },
+  "top_10_communities": [
+    {
+      "community_id": 1,
+      "size": 158,
+      "members": [
+        "Jefferson Starship",
+        "Rod Stewart",
+        "Stevie Ray Vaughan",
+        "The Doors",
+        "The Four Seasons (band)",
+        "Kenny Loggins",
+        "Fleetwood Mac",
+        "Traffic (band)",
+        "The Animals",
+        "Alice Cooper (band)",
+        "10cc",
+        "Ian Dury",
+        "The Mothers of Invention",
+        "Elton John",
+        "Roxy Music",
+        "Eagles (band)",
+        "The Dave Clark Five",
+        "Tom Petty and the Heartbreakers",
+        "Shakin' Stevens",
+        "Jimi Hendrix"
+      ]
+    },
+    {
+      "community_id": 0,
+      "size": 122,
+      "members": [
+        "Queensr\u00ffche",
+        "Sepultura",
+        "Marilyn Manson (band)",
+        "Cinderella (band)",
+        "Sex Pistols",
+        "Van Halen",
+        "Killswitch Engage",
+        "Anthrax (American band)",
+        "Marilyn Manson",
+        "Damn Yankees (band)",
+        "AC/DC",
+        "Extreme (band)",
+        "Bullet for My Valentine",
+        "Deftones",
+        "Chris Cornell",
+        "Rob Zombie",
+        "Kid Rock",
+        "Golden Earring",
+        "Cheap Trick",
+        "38 Special (band)"
+      ]
+    },
+    {
+      "community_id": 3,
+      "size": 90,
+      "members": [
+        "Pixies (band)",
+        "Keane (band)",
+        "Travis (band)",
+        "Coldplay",
+        "Arctic Monkeys",
+        "The Boxtones",
+        "Bryan Adams",
+        "Everlast",
+        "Blondie (band)",
+        "Peter Gabriel",
+        "James Blunt",
+        "Blur (band)",
+        "Ben Folds Five",
+        "Foals (band)",
+        "Joy Division",
+        "Beck",
+        "Sam Fender",
+        "Depeche Mode",
+        "The Flaming Lips",
+        "Franz Ferdinand (band)"
+      ]
+    },
+    {
+      "community_id": 2,
+      "size": 74,
+      "members": [
+        "Silverchair",
+        "Weezer",
+        "311 (band)",
+        "The Jesus and Mary Chain",
+        "No Doubt",
+        "Limp Bizkit",
+        "Flogging Molly",
+        "Hootie & the Blowfish",
+        "Sonic Youth",
+        "The Fray",
+        "The Used",
+        "Creed (band)",
+        "John Mayer",
+        "Hoobastank",
+        "The Offspring",
+        "White Zombie (band)",
+        "Fun (band)",
+        "Fall Out Boy",
+        "The Smashing Pumpkins",
+        "Filter (band)"
+      ]
+    },
+    {
+      "community_id": 4,
+      "size": 44,
+      "members": [
+        "Alter Bridge",
+        "Godsmack",
+        "Pop Evil",
+        "The Pretty Reckless",
+        "Black Stone Cherry",
+        "Genesis (band)",
+        "10 Years (band)",
+        "Collective Soul",
+        "Staind",
+        "Papa Roach",
+        "Breaking Benjamin",
+        "Highly Suspect",
+        "Puddle of Mudd",
+        "Disturbed (band)",
+        "Hall & Oates",
+        "Halestorm",
+        "Hinder",
+        "The Tragically Hip",
+        "Goo Goo Dolls",
+        "Daughtry (band)"
+      ]
+    }
+  ]
+}

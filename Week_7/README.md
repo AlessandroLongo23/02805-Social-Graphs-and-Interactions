@@ -13,7 +13,6 @@ This folder contains scripts for analyzing rock music performer networks, extrac
 
 ### Visualization Files
 - `top_15_genres_histogram.png` - Top 15 genres by artist count
-- `community_network_visualization.png` - Network colored by structural communities
 - `confusion_matrix.png` - Heatmap comparing genres vs communities
 
 ### Script Files
@@ -90,7 +89,6 @@ python community_detection.py
 **Output:**
 - `community_detection_results.json` - Community statistics and top 10 communities
 - `community_detection_results_partition.json` - Full node→community mapping
-- `community_network_visualization.png` - Network visualization
 - Console analysis and interpretation
 
 **Visualization Features:**

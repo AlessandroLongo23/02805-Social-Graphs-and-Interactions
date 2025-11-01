@@ -13,6 +13,10 @@
       "score": 10.527757544801059
     },
     {
+      "word": "janis",
+      "score": 10.340558143628705
+    },
+    {
       "word": "diddley",
       "score": 10.238104783562774
     },
@@ -25,11 +29,11 @@
       "score": 10.104235751173887
     },
     {
-      "word": "glitter",
+      "word": "lewisohn",
       "score": 9.912617103334014
     },
     {
-      "word": "lewisohn",
+      "word": "glitter",
       "score": 9.912617103334014
     },
     {
@@ -43,6 +47,10 @@
     {
       "word": "rodriguez",
       "score": 9.865691391178265
+    },
+    {
+      "word": "starship",
+      "score": 9.777615062864239
     },
     {
       "word": "loggins",
@@ -71,44 +79,28 @@
     {
       "word": "rollers",
       "score": 9.596828213894389
-    },
-    {
-      "word": "hollies",
-      "score": 9.574159699541946
-    },
-    {
-      "word": "valens",
-      "score": 9.516050936242316
     }
   ],
   "Community_0": [
     {
       "word": "megadeth",
-      "score": 11.394712901687535
+      "score": 11.37991336832536
     },
     {
       "word": "whitesnake",
-      "score": 11.30380283210551
+      "score": 11.315451408256086
     },
     {
       "word": "nugent",
-      "score": 11.014259840196994
+      "score": 10.952442218205249
     },
     {
       "word": "mustaine",
-      "score": 10.559009748366378
-    },
-    {
-      "word": "audioslave",
-      "score": 10.416717801742267
+      "score": 10.534056722753945
     },
     {
       "word": "coverdale",
-      "score": 10.409941211046737
-    },
-    {
-      "word": "tenacious",
-      "score": 10.31194516046547
+      "score": 10.482959164016028
     },
     {
       "word": "sepultura",
@@ -116,15 +108,15 @@
     },
     {
       "word": "iommi",
-      "score": 10.062645894002564
+      "score": 10.054197381623545
     },
     {
       "word": "ratt",
-      "score": 9.716100393892201
+      "score": 9.72651750412632
     },
     {
       "word": "cornells",
-      "score": 9.673744320133002
+      "score": 9.516050936242316
     },
     {
       "word": "halford",
@@ -143,24 +135,32 @@
       "score": 9.217875094648885
     },
     {
-      "word": "mudvayne",
-      "score": 9.203568885673935
-    },
-    {
       "word": "coil",
       "score": 9.159871054511111
     },
     {
       "word": "keenan",
-      "score": 9.053044502110804
+      "score": 9.037187842690884
     },
     {
       "word": "cambria",
       "score": 9.004998011419211
     },
     {
+      "word": "dio",
+      "score": 9.004998011419211
+    },
+    {
       "word": "popoff",
       "score": 9.004998011419211
+    },
+    {
+      "word": "anselmo",
+      "score": 8.972151199665944
+    },
+    {
+      "word": "volbeat",
+      "score": 8.921588782383475
     }
   ],
   "Community_3": [
@@ -195,6 +195,10 @@
     {
       "word": "coldplays",
       "score": 8.759609276352608
+    },
+    {
+      "word": "dashboard",
+      "score": 8.621290271544614
     },
     {
       "word": "traveler",
@@ -239,16 +243,16 @@
     {
       "word": "rourke",
       "score": 7.806011431093495
-    },
-    {
-      "word": "dolores",
-      "score": 7.736024843311238
     }
   ],
   "Community_2": [
     {
+      "word": "offspring",
+      "score": 10.184323811238196
+    },
+    {
       "word": "poppunk",
-      "score": 9.367381812726048
+      "score": 9.492206975503747
     },
     {
       "word": "awolnation",
@@ -256,19 +260,23 @@
     },
     {
       "word": "hoppus",
-      "score": 8.886975880348269
-    },
-    {
-      "word": "allamerican",
-      "score": 8.797039752044034
+      "score": 8.869386219886096
     },
     {
       "word": "wentz",
-      "score": 8.778433326172824
+      "score": 8.759609276352608
     },
     {
       "word": "cutie",
       "score": 8.759609276352608
+    },
+    {
+      "word": "allamerican",
+      "score": 8.721287515625288
+    },
+    {
+      "word": "shinoda",
+      "score": 8.682030986227907
     },
     {
       "word": "lavignes",
@@ -279,16 +287,24 @@
       "score": 8.42396944621676
     },
     {
-      "word": "stump",
-      "score": 8.400473584952335
+      "word": "hoobastank",
+      "score": 8.376629624213765
     },
     {
-      "word": "hoobastank",
-      "score": 8.400473584952335
+      "word": "stump",
+      "score": 8.327855045786418
+    },
+    {
+      "word": "whibley",
+      "score": 8.302902020173985
     },
     {
       "word": "delonge",
-      "score": 8.225634162669097
+      "score": 8.251804461436066
+    },
+    {
+      "word": "reddick",
+      "score": 8.199031277442748
     },
     {
       "word": "dummies",
@@ -309,36 +325,20 @@
     {
       "word": "sloman",
       "score": 7.968719354386144
-    },
-    {
-      "word": "weezers",
-      "score": 7.937467150820825
-    },
-    {
-      "word": "farro",
-      "score": 7.905596051684551
-    },
-    {
-      "word": "duritz",
-      "score": 7.905596051684551
-    },
-    {
-      "word": "gerard",
-      "score": 7.839895586042474
     }
   ],
   "Community_4": [
     {
       "word": "shinedown",
-      "score": 10.096003314234869
+      "score": 10.045704285859367
     },
     {
-      "word": "supertramp",
-      "score": 9.114953592825398
+      "word": "staind",
+      "score": 9.174569219792524
     },
     {
       "word": "hinder",
-      "score": 8.938620030333563
+      "score": 8.955472937332456
     },
     {
       "word": "starset",
@@ -353,16 +353,16 @@
       "score": 8.400473584952335
     },
     {
-      "word": "gontier",
-      "score": 8.376629624213765
-    },
-    {
       "word": "suspect",
       "score": 8.376629624213765
     },
     {
       "word": "evanescences",
       "score": 8.251804461436066
+    },
+    {
+      "word": "deadman",
+      "score": 8.144468834885563
     },
     {
       "word": "momsen",
@@ -381,10 +381,6 @@
       "score": 7.699856177102269
     },
     {
-      "word": "abel",
-      "score": 7.546460360284277
-    },
-    {
       "word": "gord",
       "score": 7.546460360284277
     },
@@ -393,20 +389,24 @@
       "score": 7.505712920254634
     },
     {
+      "word": "abel",
+      "score": 7.46390698764331
+    },
+    {
       "word": "shaddix",
       "score": 7.331549874494247
     },
     {
-      "word": "walst",
-      "score": 7.284896233662354
+      "word": "winkler",
+      "score": 7.136227110146086
     },
     {
       "word": "rzeznik",
       "score": 7.136227110146086
     },
     {
-      "word": "winkler",
-      "score": 7.136227110146086
+      "word": "socan",
+      "score": 7.083453926152768
     }
   ]
 }
