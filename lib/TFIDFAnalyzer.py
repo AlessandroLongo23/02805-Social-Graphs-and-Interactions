@@ -205,7 +205,6 @@ class TFIDFAnalyzer:
         ax.axis('off')
         
         # Save
-        plt.savefig(output_file, dpi=300, bbox_inches='tight', facecolor='white')
         plt.close()
 
 
@@ -229,8 +228,6 @@ class TFIDFAnalyzer:
                     'turbo', 'spring', 'summer', 'autumn', 'winter']
         
         for i, (genre, tfidf_dict) in enumerate(genre_tfidf.items(), 1):
-            print(f"Creating word cloud {i}/{len(genre_tfidf)}: {genre}")
-            
             colormap = colormaps[i % len(colormaps)]
             filename = f"{genre.replace(' ', '_')}_tfidf_wordcloud.png"
             filepath = os.path.join(output_dir, filename)
@@ -272,8 +269,6 @@ class TFIDFAnalyzer:
                     'turbo', 'spring', 'summer', 'autumn', 'winter']
         
         for i, genre in enumerate(genres):
-            print(f"Adding {genre} to grid ({i+1}/{n_genres})")
-            
             tfidf_dict = genre_tfidf[genre]
             
             if not tfidf_dict:
