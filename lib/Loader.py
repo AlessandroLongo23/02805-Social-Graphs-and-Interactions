@@ -5,15 +5,18 @@ class Loader():
     def __init__(self):
         pass
 
-    def load_network(self, graph_file):
+    def load_network(self, graph_file, directed=False):
         """Load the network from JSON and create an undirected NetworkX graph."""
         with open(graph_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
-        G = nx.Graph()
+        if directed:
+            G = nx.DiGraph()
+        else:
+            G = nx.Graph()
         
         for node in data['nodes']:
-            G.add_node(node['name'])
+            G.add_node(node['name'], url=node['url'], length_of_content=node['length_of_content'])
         
         for edge in data['edges']:
             G.add_edge(edge[0], edge[1])
